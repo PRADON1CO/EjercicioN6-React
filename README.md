@@ -1,25 +1,25 @@
 <!-- Proyect Logo -->
 <div align= "center">
-    <a href='https://ejercicio5-tp6-rect.netlify.app'>
+    <a href='https://ejercicio6-tp6-react.netlify.app'>
     <img src='https://lh3.googleusercontent.com/proxy/RqstwJgG8OUEvrDMw8LE8We7bBHDP-PyxgECbFOxx5HhwQ3CRpD7Gpf8GxE3c-p_9OL0UGB1MQf1UfmoenZMIBfO2GBhIwybQtWJHuBP9gLYs86n-XBS2Ln92f3Xmg' alt='Rolling ' width='300' />
     </a>
     <h1>Ejercicio 6</h1>
     <p>
     <br>
-    <a href='https://ejercicio5-tp6-rect.netlify.app'>
+    <a href='https://ejercicio6-tp6-react.netlify.app'>
     <strong>Explorar pagina » </strong>
     </a>
     <br>
     <br>
-    <a href='https://ejercicio5-tp6-rect.netlify.app'>
+    <a href='https://ejercicio6-tp6-react.netlify.app'>
     Reportar un problema
     </a>
     ·
-    <a href='https://ejercicio5-tp6-rect.netlify.app'>
+    <a href='https://ejercicio6-tp6-react.netlify.app'>
     Solicitar una mejora
     </a>
     ·
-    <a href='https://ejercicio5-tp6-rect.netlify.app'>
+    <a href='https://ejercicio6-tp6-react.netlify.app'>
     Soporte
     </a>
     </p>
